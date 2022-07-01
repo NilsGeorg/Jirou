@@ -1,0 +1,11 @@
+# Example config. Place this config under $HOME/.jirou
+## https://somthing.atlassian.net
+Host: "your jira instance"
+## For ABC-1
+ProjectKey: "ABC"
+## Your api token - https://support.atlassian.com/atlassian-account/docs/manage-api-tokens-for-your-atlassian-account/
+Token: ""
+## Your email
+Username: ""
+## the maximal amount of tickets you want to process
+MaxResults: "1000"
